@@ -16,6 +16,7 @@
   "author": "akash k",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
   }
 }
